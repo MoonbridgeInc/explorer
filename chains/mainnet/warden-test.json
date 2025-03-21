@@ -1,0 +1,21 @@
+{
+    "chain_name": "warden-testnet",
+    "api": ["https://warden-testnet-api.moonbridge.org"],
+    "rpc": ["https://warden-testnet-rpc.moonbridge.org"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.50.9",
+    "coin_type": "118",
+    "min_tx_fee": "250000000000000",
+    "coin_decemals": 18,
+    "addr_prefix": "warden",
+    "logo": "https://pbs.twimg.com/profile_images/1827100976152555520/N-CVNgTL_400x400.jpg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "award",
+        "symbol": "WARD",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "https://pbs.twimg.com/profile_images/1827100976152555520/N-CVNgTL_400x400.jpg"
+    }]
+  }

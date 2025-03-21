@@ -1,0 +1,33 @@
+{
+  "chain_name": "realio",
+  "alias": "realio",
+  "api": [
+    "https://realio-api.moonbridge.org"
+  ],
+  "rpc": [
+    "https://realio-rpc.moonbridge.org"
+  ],
+  "snapshot_provider": "",
+  "addr_prefix": "realio",
+  "coin_type": "60",
+  "min_tx_fee": "5000",
+  "theme_color": "#812cd6",
+  "assets": [
+    {
+      "base": "ario",
+      "symbol": "RIO",
+      "exponent": "18",
+      "coingecko_id": "realio-network",
+      "logo": "https://avatars.githubusercontent.com/u/73153279?s=200&v=4"
+    },
+    {
+      "base": "arst",
+      "symbol": "RST",
+      "exponent": "18",
+      "coingecko_id": "",
+      "logo": "https://avatars.githubusercontent.com/u/73153279?s=200&v=4"
+    }
+  ],
+  "logo": "https://avatars.githubusercontent.com/u/73153279?s=200&v=4",
+  "sdk_version": "v0.46.11"
+}
