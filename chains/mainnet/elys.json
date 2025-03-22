@@ -1,7 +1,7 @@
 {
     "chain_name": "elys",
-    "api": ["https://elys-api.moonbridge.org"],
-    "rpc": ["https://elys-rpc.moonbridge.org"],
+    "api": ["https://elys-mainnet-api.itrocket.net","https://elys-api.moonbridge.org"],
+    "rpc": ["https://elys-mainnet-rpc.itrocket.net","https://elys-rpc.moonbridge.org"],
     "coingecko": "elys-network",
     "snapshot_provider": "",
     "sdk_version": "0.50.9",

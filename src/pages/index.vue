@@ -28,7 +28,7 @@ const chains = computed(() => {
 });
 
 const featured = computed(() => {
-  const names = ["cosmos", "osmosis", "akash", "celestia", "evmos", "injective", "dydx", "noble"];
+  const names = ["elys", "empower", "entangle", "gitopia", "kopi", "picasso", "realio", "source"];
   return chains.value
     .filter(x => names.includes(x.chainName))
     .sort((a, b)=> (names.indexOf(a.chainName) - names.indexOf(b.chainName)))
@@ -62,12 +62,12 @@ const chainStore = useBlockchain()
         </svg>
       </div>
       <h1 class="text-primary dark:invert text-3xl md:!text-6xl font-bold">
-        {{ $t('pages.title') }}
+        {{ $t('Moonbridge Dashboard') }}
       </h1>
     </div>
     <div class="text-center text-base">
       <p class="mb-1">
-        {{ $t('pages.slogan') }}
+        {{ $t('Moonbridge is a service provider for blockchain projects 🛠') }}
       </p>
     </div>
     <div
