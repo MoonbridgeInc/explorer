@@ -28,7 +28,7 @@ const chains = computed(() => {
 });
 
 const featured = computed(() => {
-  const names = ["elys", "empower", "entangle", "gitopia", "kopi", "picasso", "realio", "source"];
+  const names = ["arkeo", "elys", "empower", "entangle", "gitopia", "kopi", "picasso", "realio", "source"];
   return chains.value
     .filter(x => names.includes(x.chainName))
     .sort((a, b)=> (names.indexOf(a.chainName) - names.indexOf(b.chainName)))
