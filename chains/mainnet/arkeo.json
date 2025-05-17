@@ -1,7 +1,7 @@
 {
     "chain_name": "arkeo",
-    "api": ["https://arkeo-api.moonbridge.org"],
-    "rpc": ["https://arkeo-rpc.moonbridge.org"],
+    "api": ["https://arkeo-api.polkachu.com","https://arkeo-api.moonbridge.org"],
+    "rpc": ["https://arkeo-rpc.polkachu.com","https://arkeo-rpc.moonbridge.org"],
     "sdk_version": "0.50.8",
     "coin_type": 118,
     "coin_decemals": 8,

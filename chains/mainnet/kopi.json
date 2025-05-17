@@ -1,7 +1,7 @@
 {
     "chain_name": "kopi",
-    "api": ["https://kopi-api.moonbridge.org","https://rest.kopi.money"],
-    "rpc": ["https://kopi-rpc.moonbridge.org","https://rpc.kopi.money"],
+    "api": ["https://kopi-api.polkachu.com","https://kopi-api.moonbridge.org","https://rest.kopi.money"],
+    "rpc": ["https://kopi-rpc.polkachu.com","https://kopi-rpc.moonbridge.org","https://rpc.kopi.money"],
     "sdk_version": "v0.50.7-0.5",
     "coin_type": 118,
     "coin_decemals": 6,

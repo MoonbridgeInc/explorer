@@ -1,8 +1,8 @@
 {
     "chain_name": "empower",
     "coingecko": "",
-    "api": ["https://empower-api.moonbridge.org"],
-    "rpc": ["https://empower-rpc.moonbridge.org"],
+    "api": ["https://empower-api.polkachu.com","https://empower-api.moonbridge.org"],
+    "rpc": ["https://empower-rpc.polkachu.com","https://empower-rpc.moonbridge.org"],
     "snapshot_provider": "",
     "sdk_version": "0.47.5",
     "coin_type": "118",

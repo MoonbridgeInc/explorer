@@ -1,8 +1,8 @@
 {
     "chain_name": "picasso",
     "registry_name": "picasso",
-    "api": ["https://picasso-api.moonbridge.org"],
-    "rpc": ["https://picasso-rpc.moonbridge.org"],
+    "api": ["https://picasso-api.polkachu.com","https://picasso-api.moonbridge.org"],
+    "rpc": ["https://picasso-rpc.polkachu.com","https://picasso-rpc.moonbridge.org"],
     "snapshot_provider": "",
     "sdk_version": "0.47.1",
     "coin_type": "118",

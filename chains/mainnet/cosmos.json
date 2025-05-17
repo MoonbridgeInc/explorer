@@ -2,11 +2,13 @@
     "chain_name": "cosmos",
     "registry_name": "cosmoshub",
     "api": [
+        {"provider": "polkachu", "address": "https://cosmos-api.polkachu.com"},
         {"provider": "cosmos.directory", "address": "https://rest.cosmos.directory/cosmoshub"},
         {"provider": "publicnode", "address": "https://cosmos-rest.publicnode.com"},
         {"provider": "silknode", "address": "https://cosmos.api.silknodes.io"}
     ],
     "rpc": [
+        {"provider": "polkachu", "address": "https://cosmos-rpc.polkachu.com"},
         {"provider": "icycro", "address": "https://cosmos-rpc.icycro.org"}, 
         {"provider": "dragonstake", "address": "https://rpc.cosmos.dragonstake.io"}, 
         {"provider": "Golden Ratio Staking", "address": "https://rpc-cosmoshub.goldenratiostaking.net"}
