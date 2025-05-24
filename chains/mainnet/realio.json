@@ -2,10 +2,10 @@
   "chain_name": "realio",
   "alias": "realio",
   "api": [
-    "https://realio-api.moonbridge.org"
+    "https://realio-api.moonbridge.org","https://realio-mainnet-api.itrocket.net"
   ],
   "rpc": [
-    "https://realio-rpc.moonbridge.org"
+    "https://realio-rpc.moonbridge.org","https://realio-mainnet-rpc.itrocket.net"
   ],
   "snapshot_provider": "",
   "addr_prefix": "realio",

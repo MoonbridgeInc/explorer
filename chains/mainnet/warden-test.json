@@ -1,7 +1,7 @@
 {
     "chain_name": "warden-testnet",
-    "api": ["https://warden-testnet-api.moonbridge.org"],
-    "rpc": ["https://warden-testnet-rpc.moonbridge.org"],
+    "api": ["https://warden-testnet-api.moonbridge.org","https://warden-testnet-api.itrocket.net"],
+    "rpc": ["https://warden-testnet-rpc.moonbridge.org","https://warden-testnet-rpc.itrocket.net"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.50.9",

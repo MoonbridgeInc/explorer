@@ -1,11 +1,13 @@
 {
     "chain_name": "empeiria-testnet",
     "api": [
-        {"provider": "Moonbridge", "address": "https://empeiria-testnet-api.moonbridge.org"}
+        {"provider": "Moonbridge", "address": "https://empeiria-testnet-api.moonbridge.org"},
+        {"provider": "ItRocket", "address": "https://empeiria-testnet-api.itrocket.net"}
     ],
     "rpc": [
         {"provider": "Moonbridge", "address": "https://empeiria-testnet-rpc.moonbridge.org"},
-        {"provider": "EMPE-ARCHIVE", "address": "https://rpc-archive-testnet.empe.io"}
+        {"provider": "Empeiria-ARCHIVE", "address": "https://rpc-archive-testnet.empe.io"},
+        {"provider": "ItRocket", "address": "https://empeiria-testnet-rpc.itrocket.net"}
     ],
     "sdk_version": "0.47.12",
     "coin_type": "118",
