@@ -1,7 +1,7 @@
 {
     "chain_name": "hedge-testnet",
-    "api": ["https://hedge-testnet-api.moonbridge.org","https://api-hedge-testnet.trusted-point.com"],
-    "rpc": ["https://hedge-testnet-rpc.moonbridge.org","https://rpc-hedge-testnet.trusted-point.com"],
+    "api": ["https://hedge-testnet-api.moonbridge.org","https://lcd-berberis.hedgeblock.io"],
+    "rpc": ["https://hedge-testnet-rpc.moonbridge.org","https://rpc-berberis.hedgeblock.io"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.47.5",
