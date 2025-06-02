@@ -183,38 +183,6 @@ const show_ad = computed(() => {
           <div class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200">
             Wallet Helper
           </div>
-<<<<<<< HEAD
-          <RouterLink to="/wallet/suggest"
-          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
-          >
-            <Icon icon="mdi:frequently-asked-questions" class="text-xl mr-2" />
-            <div
-              class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
-            >
-              Wallet Helper
-            </div>
-          </RouterLink>
-          <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">
-        </div>
-      
-        <a
-          href="https://moonbridge.org"
-          target="_blank"
-          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
-        >
-          <Icon icon="mdi:web" class="text-xl mr-2" />
-          <div
-            class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
-          >
-            Website
-          </div>
-        </a>
-        <a
-          href="https://x.com/MoonbridgeInc"
-          target="_blank"
-          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
-        >
-=======
         </RouterLink>
         <div v-if="showDiscord" class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">
           {{ $t('module.sponsors') }}
@@ -223,43 +191,18 @@ const show_ad = computed(() => {
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">{{ $t('module.links') }}</div>
         <a href="https://twitter.com/ping_pub" target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]">
->>>>>>> 9f2fe03f332061fa24873ac5b7b03c8d0f1f166d
           <Icon icon="mdi:twitter" class="text-xl mr-2" />
           <div class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200">
             Twitter
           </div>
         </a>
-<<<<<<< HEAD
-        <a
-          href="https://github.com/MoonbridgeInc"
-          target="_blank"
-          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
-        >
-          <Icon icon="mdi:github" class="text-xl mr-2" />
-          <div
-            class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
-          >
-            Github
-          </div>
-        </a>
-        <a
-          v-if="showDiscord"
-          href="https://discord.com/invite/CmjYVSr6GW"
-          target="_blank"
-          class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
-        >
-=======
         <a v-if="showDiscord" href="https://discord.com/invite/CmjYVSr6GW" target="_blank"
           class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]">
->>>>>>> 9f2fe03f332061fa24873ac5b7b03c8d0f1f166d
           <Icon icon="mdi:discord" class="text-xl mr-2" />
           <div class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200">
             Discord
           </div>
         </a>
-<<<<<<< HEAD
-        
-=======
         <a href="https://github.com/ping-pub/explorer/discussions" target="_blank"
           class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]">
           <Icon icon="mdi:frequently-asked-questions" class="text-xl mr-2" />
@@ -267,7 +210,6 @@ const show_ad = computed(() => {
             FAQ
           </div>
         </a>
->>>>>>> 9f2fe03f332061fa24873ac5b7b03c8d0f1f166d
       </div>
     </div>
     <div class="xl:!ml-64 px-3 pt-4">
