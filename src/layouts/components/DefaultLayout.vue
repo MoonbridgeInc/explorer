@@ -7,7 +7,7 @@ import newFooter from '@/layouts/components/NavFooter.vue';
 import NavbarThemeSwitcher from '@/layouts/components/NavbarThemeSwitcher.vue';
 import NavbarSearch from '@/layouts/components/NavbarSearch.vue';
 import ChainProfile from '@/layouts/components/ChainProfile.vue';
-// import Sponsors from '@/layouts/components/Sponsors.vue';
+import Sponsors from '@/layouts/components/Sponsors.vue';
 
 import { NetworkType, useDashboard } from '@/stores/useDashboard';
 import { useBaseStore, useBlockchain } from '@/stores';
@@ -189,11 +189,25 @@ const show_ad = computed(() => {
         </div>
         <Sponsors v-if="showDiscord" />
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">{{ $t('module.links') }}</div>
-        <a href="https://twitter.com/ping_pub" target="_blank"
+        <a href="https://moonbridge.org" target="_blank"
+          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]">
+          <Icon icon="mdi:web" class="text-xl mr-2" />
+          <div class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200">
+            Website
+          </div>
+        </a>
+        <a href="https://x.com/MoonbridgeInc" target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]">
           <Icon icon="mdi:twitter" class="text-xl mr-2" />
           <div class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200">
             Twitter
+          </div>
+        </a>
+        <a href="https://github.com/MoonbridgeInc" target="_blank"
+          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]">
+          <Icon icon="mdi:github" class="text-xl mr-2" />
+          <div class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200">
+            GitHub
           </div>
         </a>
         <a v-if="showDiscord" href="https://discord.com/invite/CmjYVSr6GW" target="_blank"
