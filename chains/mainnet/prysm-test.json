@@ -8,13 +8,13 @@
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "prysm",
-    "logo": "https://pbs.twimg.com/profile_images/1860070465898795008/c4gj8huk_400x400.png",
+    "logo": "https://miro.medium.com/v2/resize:fit:1400/1*dSAOyoWFPtxzTOYxuzJwYQ.png",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "uprysm",
         "symbol": "PRYSM",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "https://pbs.twimg.com/profile_images/1860070465898795008/c4gj8huk_400x400.png"
+        "logo": "https://miro.medium.com/v2/resize:fit:1400/1*dSAOyoWFPtxzTOYxuzJwYQ.png"
     }]
   }
