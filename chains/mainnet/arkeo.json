@@ -1,0 +1,19 @@
+{
+    "chain_name": "arkeo",
+    "api": ["https://arkeo-api.polkachu.com","https://arkeo-api.moonbridge.org"],
+    "rpc": ["https://arkeo-rpc.polkachu.com","https://arkeo-rpc.moonbridge.org"],
+    "sdk_version": "0.50.8",
+    "coin_type": 118,
+    "coin_decemals": 8,
+    "min_tx_fee": 500,
+    "addr_prefix": "arkeo",
+    "logo": "https://pbs.twimg.com/profile_images/1615488082756907009/jbFWivQL_400x400.jpg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uarkeo",
+        "symbol": "ARKEO",
+        "exponent": 8,
+        "coingecko_id": "arkeo",
+        "logo": "https://pbs.twimg.com/profile_images/1615488082756907009/jbFWivQL_400x400.jpg"
+    }]
+}

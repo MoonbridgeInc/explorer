@@ -23,12 +23,12 @@
     "links": "Links"
   },
   "pages": {
-    "title": "Ping Dashboard",
+    "title": "Moonbridge Dashboard",
     "title_all": "404",
     "tag": "Beta",
     "tag_all": "Seite nicht gefunden",
-    "slogan": "Ping Dashboard ist nicht nur ein Explorer, sondern auch eine Wallet und mehr ... 🛠",
-    "description": "Cosmos-Ökosystem-Blockchains 🚀",
+    "slogan": "Moonbridge is a service provider for blockchain projects 🛠",
+    "description": "Staking with Moonbridge 🚀",
     "search_placeholder": "Suche Chain",
     "description_all": "Wir konnten die gesuchte Seite nicht finden.",
     "out_of_sync": "Der letzte Block wurde erstellt am ",

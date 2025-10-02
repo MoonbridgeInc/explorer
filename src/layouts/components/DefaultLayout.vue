@@ -93,7 +93,7 @@ const show_ad = computed(() => {
       <div class="flex justify-between mt-1 pl-4 py-4 mb-1">
         <RouterLink to="/" class="flex items-center">
           <img class="w-10 h-10" src="../../assets/logo.svg" />
-          <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">Ping.pub</h1>
+          <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">Moonbridge</h1>
         </RouterLink>
         <div
           class="pr-4 cursor-pointer xl:!hidden"
@@ -247,7 +247,23 @@ const show_ad = computed(() => {
         <Sponsors v-if="showDiscord" />
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">{{ $t('module.links') }}</div>
         <a
-          href="https://twitter.com/ping_pub"
+          href="https://moonbridge.org/"
+          target="_blank"
+          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
+        >
+          <Icon icon="mdi:web" class="text-xl mr-2" />
+          <div class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200">Website</div>
+        </a>
+        <a
+          href="https://github.com/MoonbridgeInc"
+          target="_blank"
+          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
+        >
+          <Icon icon="mdi:github" class="text-xl mr-2" />
+          <div class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200">GitHub</div>
+        </a>
+        <a
+          href="https://twitter.com/MoonbridgeInc"
           target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
@@ -263,20 +279,20 @@ const show_ad = computed(() => {
           <Icon icon="mdi:discord" class="text-xl mr-2" />
           <div class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200">Discord</div>
         </a>
-        <a
+        <!-- <a
           href="https://github.com/ping-pub/explorer/discussions"
           target="_blank"
           class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
           <Icon icon="mdi:frequently-asked-questions" class="text-xl mr-2" />
           <div class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200">FAQ</div>
-        </a>
+        </a> -->
       </div>
     </div>
     <div class="xl:!ml-64 px-3 pt-4">
       <!-- header -->
       <div
-        class="flex items-center py-3 bg-base-100 mb-4 rounded px-4 sticky top-0 z-10"
+        class="flex items-center py-3 bg-base-100 mb-4 rounded-lg px-4 sticky top-0 z-10"
       >
         <div
           class="text-2xl pr-3 cursor-pointer xl:!hidden"

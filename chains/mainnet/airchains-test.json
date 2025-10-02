@@ -1,0 +1,18 @@
+{
+    "chain_name": "airchains-testnet",
+    "api": ["https://airchains-testnet-api.moonbridge.org","https://airchains-testnet-api.itrocket.net"],
+    "rpc": ["https://airchains-testnet-rpc.moonbridge.org","https://airchains-testnet-rpc.itrocket.net"],
+    "sdk_version": "0.50.3",
+    "coin_type": 118,
+    "coin_decemals": 6,
+    "min_tx_fee": 200,
+    "addr_prefix": "airchains",
+    "logo": "https://avatars.githubusercontent.com/u/107769009?s=200&v=4",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uamf",
+        "symbol": "AMF",
+        "exponent": 6,
+        "logo": "https://avatars.githubusercontent.com/u/107769009?s=200&v=4"
+    }]
+}

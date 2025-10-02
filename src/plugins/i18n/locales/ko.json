@@ -23,12 +23,12 @@
     "links": "링크"
   },
   "pages": {
-    "title": "핑 대시보드",
+    "title": "Moonbridge 대시보드",
     "title_all": "404",
     "tag": "베타",
     "tag_all": "페이지를 찾을 수 없습니다",
-    "slogan": "핑 대시보드는 단순한 익스플로러가 아니라 지갑과 더 많은 기능을 제공합니다 🛠",
-    "description": "코스모스 에코시스템 블록체인 🚀",
+    "slogan": "Moonbridge is a service provider for blockchain projects 🛠",
+    "description": "Staking with Moonbridge 🚀",
     "search_placeholder": "체인 검색",
     "description_all": "찾고 있는 페이지를 찾을 수 없습니다.",
     "out_of_sync": "최신 블록이 생성된 시간: ",

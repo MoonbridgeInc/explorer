@@ -1,0 +1,19 @@
+{
+    "chain_name": "source",
+    "api": ["https://source-api.polkachu.com","https://source-api.moonbridge.org"],
+    "rpc": ["https://source-rpc.polkachu.com","https://source-rpc.moonbridge.org"],
+    "sdk_version": "0.45.15",
+    "coin_type": 118,
+    "coin_decemals": 18,
+    "min_tx_fee": 50000,
+    "addr_prefix": "source",
+    "logo": "https://avatars.githubusercontent.com/u/96547185?v=4",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "usource",
+        "symbol": "SOURCE",
+        "exponent": 6,
+        "coingecko_id": "source",
+        "logo": "https://avatars.githubusercontent.com/u/96547185?v=4"
+    }]
+}

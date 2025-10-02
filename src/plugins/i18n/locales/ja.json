@@ -23,12 +23,12 @@
     "links": "リンク"
   },
   "pages": {
-    "title": "Ping ダッシュボード",
+    "title": "Moonbridge ダッシュボード",
     "title_all": "404",
     "tag": "ベータ",
     "tag_all": "ページが見つかりません",
-    "slogan": "Ping ダッシュボードは単なるエクスプローラーではなく、ウォレットなどもあります... 🛠",
-    "description": "Cosmos エコシステムブロックチェーン 🚀",
+    "slogan": "Moonbridge is a service provider for blockchain projects 🛠",
+    "description": "Staking with Moonbridge 🚀",
     "search_placeholder": "チェーンを検索",
     "description_all": "お探しのページは見つかりませんでした。",
     "out_of_sync": "最新のブロックは ",

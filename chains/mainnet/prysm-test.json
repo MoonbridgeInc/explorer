@@ -1,0 +1,20 @@
+{
+    "chain_name": "prysm-testnet",
+    "api": ["https://prysm-testnet-api.moonbridge.org","https://prysm-testnet-api.itrocket.net"],
+    "rpc": ["https://prysm-testnet-rpc.moonbridge.org","https://prysm-testnet-rpc.itrocket.net"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.50.8",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "prysm",
+    "logo": "https://miro.medium.com/v2/resize:fit:1400/1*dSAOyoWFPtxzTOYxuzJwYQ.png",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uprysm",
+        "symbol": "PRYSM",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://miro.medium.com/v2/resize:fit:1400/1*dSAOyoWFPtxzTOYxuzJwYQ.png"
+    }]
+  }

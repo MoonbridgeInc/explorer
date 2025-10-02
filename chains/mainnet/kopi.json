@@ -1,0 +1,18 @@
+{
+    "chain_name": "kopi",
+    "api": ["https://kopi-api.polkachu.com","https://kopi-api.moonbridge.org","https://rest.kopi.money"],
+    "rpc": ["https://kopi-rpc.polkachu.com","https://kopi-rpc.moonbridge.org","https://rpc.kopi.money"],
+    "sdk_version": "v0.50.7-0.5",
+    "coin_type": 118,
+    "coin_decemals": 6,
+    "min_tx_fee": 200,
+    "addr_prefix": "kopi",
+    "logo": "https://pbs.twimg.com/profile_images/1761492586580082688/V-TFs01l_400x400.jpg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "ukopi",
+        "symbol": "XKP",
+        "exponent": 6,
+        "logo": "https://pbs.twimg.com/profile_images/1761492586580082688/V-TFs01l_400x400.jpg"
+    }]
+}
