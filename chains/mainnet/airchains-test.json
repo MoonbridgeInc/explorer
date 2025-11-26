@@ -7,12 +7,12 @@
     "coin_decemals": 6,
     "min_tx_fee": 200,
     "addr_prefix": "airchains",
-    "logo": "/logos/airchains.jpg",
+    "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/airchains.jpg",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "uamf",
         "symbol": "AMF",
         "exponent": 6,
-        "logo": "/logos/airchains.jpg"
+        "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/airchains.jpg"
     }]
 }

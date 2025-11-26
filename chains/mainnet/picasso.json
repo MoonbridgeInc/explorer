@@ -15,7 +15,7 @@
         "symbol": "PICA",
         "exponent": "12",
         "coingecko_id": "picasso",
-        "logo": "/logos/picasso.png"
+        "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/picasso.png"
     }, {
         "base": "ibc/F3EC9F834E57DF704FA3AEAF14E8391C2E58397FE56960AD70E67562990D8265",
         "symbol": "USDT",

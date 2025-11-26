@@ -8,13 +8,13 @@
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "prysm",
-    "logo": "https://airdrops.one/wp-content/uploads/2024/04/prysm-airdrop-logo.png",
+    "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/prysm.png",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "uprysm",
         "symbol": "PRYSM",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "https://airdrops.one/wp-content/uploads/2024/04/prysm-airdrop-logo.png"
+        "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/prysm.png"
     }]
   }

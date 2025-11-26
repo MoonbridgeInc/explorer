@@ -17,13 +17,13 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "cosmos",
-    "logo": "https://pbs.twimg.com/profile_images/1983808952254058496/NvAAC9B0_400x400.png",
+    "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/cosmos.png",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "uatom",
         "symbol": "ATOM",
         "exponent": "6",
         "coingecko_id": "cosmos", 
-        "logo": "https://pbs.twimg.com/profile_images/1983808952254058496/NvAAC9B0_400x400.png"
+        "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/cosmos.png"
     }]
 }

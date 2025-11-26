@@ -7,12 +7,12 @@
     "coin_decemals": 6,
     "min_tx_fee": 200,
     "addr_prefix": "kopi",
-    "logo": "https://pbs.twimg.com/profile_images/1761492586580082688/V-TFs01l_400x400.jpg",
+    "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/kopi.jpg",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "ukopi",
         "symbol": "XKP",
         "exponent": 6,
-        "logo": "https://pbs.twimg.com/profile_images/1761492586580082688/V-TFs01l_400x400.jpg"
+        "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/kopi.jpg"
     }]
 }

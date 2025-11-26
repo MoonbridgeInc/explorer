@@ -7,13 +7,13 @@
     "coin_decemals": 18,
     "min_tx_fee": 50000,
     "addr_prefix": "source",
-    "logo": "https://avatars.githubusercontent.com/u/96547185?v=4",
+    "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/source.png",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "usource",
         "symbol": "SOURCE",
         "exponent": 6,
         "coingecko_id": "source",
-        "logo": "https://avatars.githubusercontent.com/u/96547185?v=4"
+        "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/source.png"
     }]
 }
