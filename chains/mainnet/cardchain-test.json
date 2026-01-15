@@ -1,7 +1,7 @@
 {
     "chain_name": "cardchain-testnet",
-    "api": ["https://cardchain-testnet-api.moonbridge.org","https://cardchain-testnet-api.itrocket.net"],
-    "rpc": ["https://cardchain-testnet-rpc.moonbridge.org","https://cardchain-testnet-rpc.itrocket.net"],
+    "api": ["https://cardchain-testnet-api.moonbridge.org","https://cc.api.t.stavr.tech"],
+    "rpc": ["https://cardchain-testnet-rpc.moonbridge.org",""],
     "sdk_version": "0.46.15",
     "coin_type": 118,
     "coin_decemals": 6,
