@@ -1,7 +1,7 @@
 {
     "chain_name": "structs-testnet",
-    "api": ["https://structs-testnet-api.moonbridge.org"],
-    "rpc": ["https://structs-testnet-rpc.moonbridge.org"],
+    "api": ["https://structs-testnet-api.moonbridge.org","https://testnet-api.structs.chaintools.tech"],
+    "rpc": ["https://structs-testnet-rpc.moonbridge.org","https://testnet-rpc.structs.chaintools.tech"],
     "sdk_version": "0.47.3",
     "coin_type": 118,
     "min_tx_fee": 200,
