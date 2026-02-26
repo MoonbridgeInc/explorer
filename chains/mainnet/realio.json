@@ -24,7 +24,7 @@
       "base": "arst",
       "symbol": "RST",
       "exponent": "18",
-      "coingecko_id": "",
+      "coingecko_id": "realio-network",
       "logo": "https://raw.githubusercontent.com/MoonbridgeInc/explorer/refs/heads/dev/chains/logos/realio.png"
     }
   ],
